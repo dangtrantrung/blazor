@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "blazingchat.Client.dll": "sha256-IIWDK7yxz6zebSCugtUZi5+XapzcQnB46JfXcEhtmyI=",
+      "blazingchat.Client.dll": "sha256-qz1T50nSxNd\/D31eU2hG7JfSRlQDIed9n\/1oSPVELWE=",
       "blazingchat.Shared.dll": "sha256-oxcFzP+GiUDnAa6R2F5D9si00LyHWRhmFJ1AH5zRuFQ=",
       "Blazored.Toast.dll": "sha256-GXXa2A08YD6PhpIFoBX+kgnsZS1fcddkt\/Sv5IUHdz8=",
       "Microsoft.AspNetCore.Components.dll": "sha256-putrvhzkxZrg+AxrIxUHWeL6fMlFy65rEAxnfbNCt44=",
